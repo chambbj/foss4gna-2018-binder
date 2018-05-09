@@ -1,0 +1,6 @@
+{
+    "pipeline": [
+        "arch.las",
+        "arch-compressed.laz"
+    ]
+}
