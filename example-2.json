@@ -1,0 +1,10 @@
+{
+    "pipeline": [
+        "arch.las",
+        {
+            "type": "filters.range",
+            "limits": "NumberOfReturns[1:1]"
+        },
+        "arch-only-returns.laz"
+    ]
+}
