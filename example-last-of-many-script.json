@@ -1,0 +1,9 @@
+{
+    "pipeline":[
+        {
+            "type": "filters.python",
+            "function": "filter",
+            "script": "last-of-many.py"
+        }
+    ]
+}
