@@ -2,5 +2,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python-pdal
+  - python-pdal 2.0.0
+  - pdal 1.7.2
   - matplotlib
